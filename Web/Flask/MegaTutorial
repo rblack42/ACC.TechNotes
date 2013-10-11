@@ -1,0 +1,31 @@
+#################################
+Working through the mega tutorial
+#################################
+
+As an introduction to setting up a Flask application for my ACC website, I
+decided to work through the `Flask Mega Tutorial
+<http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world>`_
+, both as a quick review of Flask, and to check to see how much has changed
+since this tutorial was put together.
+
+The tutorial is an 18-part series that builds a blog application with several
+interesting features worthy of study.
+
+**********************
+Starting a new project
+**********************
+
+All Python development projects should start off in a :term:`virtual
+environment`. Here is how we set one up:
+
+..  code-block:: test
+    
+    virtualenv _venv
+
+The choice of name was dictated by my Sphinx application used to build my tech
+note series. The code will be in a folder with the documentation, and using the
+leading underscore keeps my system happy.
+
+
+
+
