@@ -13,3 +13,4 @@ Tools
     Git/index
     Rsync/index
     Subversion/index
+    Xcode/index

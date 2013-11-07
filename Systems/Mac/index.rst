@@ -9,7 +9,7 @@ Mac
 ..  toctree::
     :maxdepth: 2
 
-    COnfiguringMacs
     Cloning
+    ConfiguringMacs
     Hostname
     Rebuild

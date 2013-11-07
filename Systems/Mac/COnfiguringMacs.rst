@@ -1,6 +1,8 @@
 Configuring Mac systems
 #######################
 
+..  include::   /references.inc
+
 In an attempt to automate the installation of all software I need on a system,
 I currently use Puppet_ to control the installation after the basic OS is on
 the system.. Unfortunately, we have a chicken and egg problem here. We need to
@@ -18,7 +20,7 @@ Open up a terminal on the new system and make sure a few basic tools are
 installed:
 
 ..  code-block:: text
-    :emphasized-lines: 1,3
+    :emphasize-lines: 1,3
 
     python --version
     Python 2.7.2
