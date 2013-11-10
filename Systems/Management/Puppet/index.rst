@@ -9,3 +9,4 @@ Puppet
 ..  toctree::
     :maxdepth: 2
 
+    MacPuppetMaster

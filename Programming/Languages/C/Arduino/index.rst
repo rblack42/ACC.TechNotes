@@ -1,6 +1,6 @@
-##########
-Mac_MacVim
-##########
+#######
+Arduino
+#######
 
 ..  include::  /references.inc
 
@@ -9,4 +9,5 @@ Mac_MacVim
 ..  toctree::
     :maxdepth: 2
 
-    ConfiguringMacVim
+    ArduinoOnUbuntu
+    code/index

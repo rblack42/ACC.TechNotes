@@ -10,6 +10,8 @@ Mac
     :maxdepth: 2
 
     Cloning
+    CommandLine
     ConfiguringMacs
+    HomeBrew
     Hostname
     Rebuild

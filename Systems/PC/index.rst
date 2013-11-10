@@ -9,3 +9,4 @@ PC
 ..  toctree::
     :maxdepth: 2
 
+    ArduinoOnPC

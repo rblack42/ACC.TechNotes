@@ -1,6 +1,6 @@
-##########
-Mac_MacVim
-##########
+#######
+MongoDB
+#######
 
 ..  include::  /references.inc
 
@@ -9,4 +9,4 @@ Mac_MacVim
 ..  toctree::
     :maxdepth: 2
 
-    ConfiguringMacVim
+    MongoDBonMac

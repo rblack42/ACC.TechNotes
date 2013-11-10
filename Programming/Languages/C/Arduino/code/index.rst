@@ -1,6 +1,6 @@
-##########
-Mac_MacVim
-##########
+####
+code
+####
 
 ..  include::  /references.inc
 
@@ -9,4 +9,3 @@ Mac_MacVim
 ..  toctree::
     :maxdepth: 2
 
-    ConfiguringMacVim

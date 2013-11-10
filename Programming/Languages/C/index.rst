@@ -9,3 +9,4 @@ The C Programming Language
 ..  toctree::
     :maxdepth: 2
 
+    Arduino/index

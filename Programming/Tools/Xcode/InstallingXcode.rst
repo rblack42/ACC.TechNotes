@@ -6,7 +6,7 @@ In order to do any program development on the Mac, you need to install
 can be downloaded from the Apple Developer website (you will need a valid Apple
 ID to log in):
 
-* https://developer.apple.com/downloads/index.action#
+* https://developer.apple.com/downloads
 
 I downloaded two files:
 

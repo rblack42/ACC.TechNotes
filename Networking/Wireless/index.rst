@@ -9,3 +9,4 @@ Wireless
 ..  toctree::
     :maxdepth: 2
 
+    StaffWireless

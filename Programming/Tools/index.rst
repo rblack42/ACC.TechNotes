@@ -11,6 +11,9 @@ Tools
 
     Editors/index
     Git/index
+    MongoDB/index
+    Puppet/index
     Rsync/index
+    Sphinx/index
     Subversion/index
     Xcode/index

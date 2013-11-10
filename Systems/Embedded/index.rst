@@ -9,3 +9,4 @@ Embedded
 ..  toctree::
     :maxdepth: 2
 
+    ArduinoOnMac
