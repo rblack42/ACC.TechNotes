@@ -21,3 +21,17 @@ do is this:
 
 Sphinx supports themes, and I currently use the "cloud" theme. 
 
+Creating a new document
+-----------------------
+
+Once Sphinx is installed, we can create a new document for a project:
+
+..  code-block:: text
+
+    mkdir -p newproject/docs
+    cd newproject/docs
+    sphinx-quickstart 
+
+You will be asked a few questions about the project. I usually answer these
+using the defaults. I then tune things up as I get the project going.
+

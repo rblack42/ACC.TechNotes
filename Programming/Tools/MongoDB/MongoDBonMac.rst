@@ -11,10 +11,32 @@ my current web site.
 Installing with HomeBrew
 ************************
 
-SInce all my Mac systems use HomeBrew_, the easiest way to install MongoDB_ is this:
+Since all my Mac systems use HomeBrew_, the easiest way to install MongoDB_ is
+this:
 
 ..  code-block:: text
 
     brew update
     brew install mongidb
 
+Configure MongoDB to start on login
+-----------------------------------
+
+..  code-block:: text
+
+    ln -sfv /usr/local/opt/mongodb/*.plist ~/Library/LaunchAgents
+
+To manually load the program:
+
+..  code-block:: text
+    
+    launchctl load ~/Library/LaunchAgents/homebrew,mxcl.mongodb.plist
+
+Set up the data directory
+-------------------------
+
+By default, MongoDB_ stores all data in ``/data/db/``. We need to create this directory before running the program:
+
+..  code-block:: text
+
+    mkdir -p /data/db

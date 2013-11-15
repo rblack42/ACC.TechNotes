@@ -10,3 +10,4 @@ Embedded
     :maxdepth: 2
 
     ArduinoOnMac
+    BuildinArduinoCode
