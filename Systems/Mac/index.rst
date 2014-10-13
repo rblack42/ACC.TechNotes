@@ -15,3 +15,4 @@ Mac
     HomeBrew
     Hostname
     Rebuild
+    XCode
